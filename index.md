@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# 啊哈，战争？
 
-You can use the [editor on GitHub](https://github.com/ahawar/ahawar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://user-images.githubusercontent.com/101454594/158013765-b2e39e29-0496-44af-94b3-7c7a9fc8598e.png)
+![image](https://user-images.githubusercontent.com/101454594/158013852-61d6af6b-3a4f-4a89-9a12-71ccf780ba31.png)
+> 在既尊重乌克兰主权原则又承认俄罗斯的"合法安全关切"之间取得[平衡](https://www.bbc.com/zhongwen/simp/world-60570540)。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image](https://user-images.githubusercontent.com/101454594/158013783-ecace4ba-5373-43ec-b540-1371bb138849.png)
+![image](https://user-images.githubusercontent.com/101454594/158013790-07b560d4-0b1e-4219-b981-80a3ed35e03d.png)
+![image](https://user-images.githubusercontent.com/101454594/158013795-bcf76689-29a8-44ad-bc12-4e97f04b6774.png)
+> [“相互保证毁灭”（Mutual assured destruction）](https://www.bbc.com/zhongwen/simp/world-60599049)
 
-### Markdown
+俄罗斯的政策也承认核武器仅是一种威慑力量，并列举了四种使用核武器的情况：
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+发射弹道导弹攻击俄罗斯联邦或其盟国领土
+对俄罗斯联邦或其盟国使用核武器或其他类型的大规模毁灭性武器
+攻击俄罗斯联邦的重要政府或军事场所，威胁其核能力
+在国家生存受到严重威胁的情况下，使用常规武器侵略俄罗斯联邦
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 参考
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahawar/ahawar/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

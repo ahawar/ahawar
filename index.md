@@ -1,5 +1,27 @@
 # 啊哈，战争？
 
+![image](https://user-images.githubusercontent.com/101454594/158015788-06f7de2a-1c16-49cb-beb8-7dc3127a528b.png)
+> 上兵伐谋 其次伐交 其次伐兵 其下攻城
+
+## 孙子兵法
+
+![image](https://user-images.githubusercontent.com/101454594/158015845-918fa0c7-4402-471b-8abf-8186d1276cdc.png)
+![image](https://user-images.githubusercontent.com/101454594/158015851-e859b8a4-00f7-4c28-9bef-4dbd633bc698.png)
+![image](https://user-images.githubusercontent.com/101454594/158015857-04e2870d-bd9c-4779-9599-ba63b95320e0.png)
+![image](https://user-images.githubusercontent.com/101454594/158015863-6ba9e8af-5a1f-43df-ac83-44a4682798b9.png)
+![image](https://user-images.githubusercontent.com/101454594/158015868-f0f6dee2-2ade-45a7-bc38-928af40b1aed.png)
+![image](https://user-images.githubusercontent.com/101454594/158015870-7b6eb177-f817-4268-b0a5-05e682124414.png)
+![image](https://user-images.githubusercontent.com/101454594/158015872-0fc2a32b-0162-4ab8-bb5d-c837c776edb3.png)
+![image](https://user-images.githubusercontent.com/101454594/158015874-5595f01e-0bef-4be5-b103-1608acb90af5.png)
+![image](https://user-images.githubusercontent.com/101454594/158015879-5492de29-f970-4762-aa36-6ee23a88e412.png)
+![image](https://user-images.githubusercontent.com/101454594/158015883-033a8d3c-88a0-4d41-bcdb-a8a984f2d748.png)
+![image](https://user-images.githubusercontent.com/101454594/158015889-cfbd973a-ebf7-493d-ba1f-c0b14d52c828.png)
+![image](https://user-images.githubusercontent.com/101454594/158015896-ef507add-2ddf-457a-a1f7-e652fcb9249d.png)
+![image](https://user-images.githubusercontent.com/101454594/158015902-3fb1b7f2-4273-49ba-8d7d-96d76e11d916.png)
+
+
+## 俄乌战争
+
 ![image](https://user-images.githubusercontent.com/101454594/158013765-b2e39e29-0496-44af-94b3-7c7a9fc8598e.png)
 ![image](https://user-images.githubusercontent.com/101454594/158013852-61d6af6b-3a4f-4a89-9a12-71ccf780ba31.png)
 > 在既尊重乌克兰主权原则又承认俄罗斯的"合法安全关切"之间取得[平衡](https://www.bbc.com/zhongwen/simp/world-60570540)。

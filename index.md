@@ -3,6 +3,11 @@
 ![image](https://user-images.githubusercontent.com/101454594/158015788-06f7de2a-1c16-49cb-beb8-7dc3127a528b.png)
 > 上兵伐谋 其次伐交 其次伐兵 其下攻城
 
+![image](https://user-images.githubusercontent.com/101454594/162567130-ca6b7af1-8f71-4841-863e-9a4e23e313b5.png)
+![image](https://user-images.githubusercontent.com/101454594/162567501-748620ce-6900-4ce7-8817-03a136795231.png)
+![image](https://user-images.githubusercontent.com/101454594/162567294-26acd054-d148-4961-ba69-09a1d9003e09.png)
+> 信仰，精神的力量
+
 ![image](https://user-images.githubusercontent.com/98789460/151900537-241994bd-465a-40a9-9f53-d3624ce40cd8.png)
 ![image](https://user-images.githubusercontent.com/98789460/151900577-3ce5739e-f0c4-4f76-af01-c3fbc02c7dca.png)
 > 一个丰富而迷人的三国宇宙
